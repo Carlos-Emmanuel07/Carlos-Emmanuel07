@@ -40,8 +40,8 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Carlos-Emmanuel07&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Emmanuel07&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>
 </div>
 
 <br>
@@ -52,10 +52,10 @@
 
 <div align='left'>
   <a href="mailto:ev8572986@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-Carlos Emmanuel-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://steamcommunity.com/profiles/76561199731872163/" target="_blank">
-    <img src="https://img.shields.io/badge/steam-CarlosEmmanuel-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+    <img src="https://img.shields.io/badge/steam-Elm4no-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </div>
 
